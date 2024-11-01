@@ -64,6 +64,6 @@
   },
   "dependencies": {
     "remix-auth": "^3.2.2",
-    "remix-auth-oauth2": "^1.2.2"
+    "remix-auth-oauth2": "github:mfrager/remix-auth-oauth2"
   }
 }
